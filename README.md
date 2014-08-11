@@ -2,7 +2,24 @@ Flask on OpenShift
 ==================
 
 This git repository helps you get up and running quickly w/ a Flask installation
-on OpenShift.
+on OpenShift. It also installs some flask extensions to speed up davelopment.
+
+Pre-installed Extensions:
+
+- Flask-MongoAlchemy>=0.6.1
+- flask-script
+- flask-bootstrap
+- flask-moment
+- flask-wtf
+- flask-sqlalchemy
+- flask-migrate
+- flask-mail
+- flask-login
+- forgerypy
+- flask-pagedown
+- markdown
+- bleach
+- flask-httpauth
 
 
 Running on OpenShift
